@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765236201878",
+    "project_id": "authentication-app-97fa1",
+    "storage_bucket": "authentication-app-97fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765236201878:android:0057419e228e1d2b9c75b7",
+        "android_client_info": {
+          "package_name": "com.dhruvin123.authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765236201878-r7t1aoi505a54qun8gi2dg2mruupnodg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5U-rqRyStvoHkF3WQqcO_H9zJFcit_DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765236201878-r7t1aoi505a54qun8gi2dg2mruupnodg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
