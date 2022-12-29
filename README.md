@@ -1,16 +1,5 @@
-# authentication_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113818392/209927428-7f1a2427-2fcc-4aa4-9003-19214726efea.gif"  height="500" width="250">
+<img src= "https://user-images.githubusercontent.com/113818392/209927611-2e9dc7b8-80e1-4f91-b45e-1f3f67bc60c4.jpg" height="500" width="250">
+<img src= "https://user-images.githubusercontent.com/113818392/209927618-6aa389da-487e-4e7c-9d90-2d81f567dd0f.jpg" height="500" width="250">
+<img src= "https://user-images.githubusercontent.com/113818392/209927620-911a6241-7f29-4d25-82c0-ad6bbc05d6fc.jpg" height="500" width="250">
+<img src= "https://user-images.githubusercontent.com/113818392/209927621-cc726e57-0638-48fb-9e8a-c3f120980a08.jpg" height="500" width="250">
